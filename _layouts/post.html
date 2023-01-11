@@ -3,37 +3,18 @@ layout: default
 ---
 
 <article class="post detailed">
-  <h1>{{ page.title }}</h1>
+  <h1>About the Workshop</h1>
 
   <div>
-    <p class="author_title">{{site.author}}  ·  {{ page.date | date: "%B %e, %Y" }}</p>
-    {% if page.last_modified_at %}
-    <p class="author_title" datetime="{{ page.last_modified_at | date_to_xmlschema }}">(Updated: {{ page.last_modified_at | date: "%b %-d, %Y" }})</p>
-    {% endif %}
-    <div class="post-tags">
-      {% if post %}
-        {% assign categories = post.categories %}
-      {% else %}
-        {% assign categories = page.categories %}
-      {% endif %}
-      {% for category in categories %}
-        <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
-        {% unless forloop.last %}&nbsp;{% endunless %}
-      {% endfor %}
-    </div>
+    <p>
+      Natural language processing (NLP) is a branch of artificial intelligence that deals with the interaction between humans and computers using natural language. There is a growing body of research on natural language processing (NLP) and people with disabilities. This research is motivated by the fact that NLP can be used to enable people with disabilities in various ways. For example, NLP can be used to automatically generate captions for people who are deaf or hard of hearing. NLP can also be used to improve the usability of text-based interfaces for people with visual impairments. In addition, NLP can be utilized to help people with cognitive disabilities such as autism or dyslexia.
+There are many challenges that need to be addressed in order to make NLP technologies more accessible to people with disabilities. The first challenge is that most NLP research is based on English, and there is a need for more research on other international languages. The second challenge is that NLP technologies are often designed for the able-bodied, and need to be re/adapted or re/designed to meet the needs of people with disabilities. Lastly, NLP technologies need effective evaluation methods and metrics to ensure that they are actually helpful for people with disabilities.
+The future of NLP and disabilities is promising. As NLP technologies continue to be conceived, designed, and developed, it is necessary to promote universal design principles, accessibility and usability to better cater them for people with disabilities. Therefore, the aim of this workshop is to bring together researchers working at the crossroads of natural language processing and technology for people with disabilities to share their work, learned experiences and ideas. We believe that this workshop can offer this expert community a platform to facilitate collaborations across countries, continents and languages to both tackle existing limitations and innovate for the future.
+Authors of selected papers from NLP4Disability will be invited to submit an extended and improved version to a Special Issue published in Nafath newsletter (ISSN: 2789-9144) indexed in DOAJ and Google Scholar (https://nafath.mada.org.qa).
+    </p>
   </div>
     
-  <div class="entry">
-    {{ content }}
-  </div>
-
-  <div>
-    <p><span class="share-box">Share:</span> <a href="http://twitter.com/share?text={{ page.title }}&url={{site.url}}{{page.url}}" target="_blank">Twitter</a>, <a href="https://www.facebook.com/sharer.php?u={{site.url}}{{page.url}}" target="_blank">Facebook</a></p>
-  </div>
-
-  <!--<div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
-  </div>-->
+ 
 
   {% include disqus.html %}
 </article>
