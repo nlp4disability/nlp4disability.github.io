@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Getting started with Reverie
+title: List of Topics
 permalink: /Topics/
 ---
-### List of Topics
 
 This workshop will explore how natural language processing can be used to improve the lives of people with disabilities. Topics of interest include, but are not limited to:
 - Automatic identification of disabilities from text
