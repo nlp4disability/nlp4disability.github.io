@@ -26,3 +26,4 @@ permalink: /Organizers/
 - Hana Alostad,	Gulf University for Science and Technology
 - Hamdy Mubarak, QCRI
 - Yahya Elhaj,	Doha Institute 
+ 
