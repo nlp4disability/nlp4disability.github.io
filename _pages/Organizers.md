@@ -18,3 +18,5 @@ permalink: /Organizers/
 - Tawfik Al-Hadhrami	Nottingham Trent University, UK
 - Reshmy Krishnan	Muscat College, Oman
 - Ahmed Tlili	Smart Learning Institute, China
+- Ali Jaoua, Oryx Universal College
+- Tamer Elsayed,	Qatar University 
