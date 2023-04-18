@@ -12,19 +12,12 @@ permalink: /Organizers/
 
 ## Program Committe
 - Mourad Abbas	General of Al-Tnall Al-Arabi in Algeria
-- Sreeganesh Thottempudi, SRH Berlin
 - Fahriye Altinay	Near East University, Cyprus
 - Oussama El Ghoul 	Mada Center, Qatar
 - Tawfik Al-Hadhrami	Nottingham Trent University, UK
-- Reshmy Krishnan	Muscat College, Oman
-- Ahmed Tlili	Smart Learning Institute, China
-- Ali Jaoua, Oryx Universal College
 - Tamer Elsayed,	Qatar University 
-- Abdelhakim Fraihat,	Trento Univeristy
 - Aseel Almesad,	PAAET Kuwait
 - Fatemah Hussain,	Kuwait University
-- Hana Alostad,	Gulf University for Science and Technology
 - Hamdy Mubarak, QCRI
-- Yahya Elhaj,	Doha Institute 
+- Maram Hasanain, Qatar University 
 - Amira Dhouib, Mada Center, Qatar
- 
