@@ -17,4 +17,4 @@ Please find the link for the submission [here]( https://easychair.org/conference
 
 5) Towards a Measure for Empathy: a Cross-Language Investigation of #disability on Social Media by ZAINAB ALMERAJ and FATEMAH HUSAIN (Kuwait)
 
-7) Towards Designing a ChatGPT Conversational Companion for Elderly People by Abeer M. Alessa and HEND S. AL-KHALIFA (Saudi Arabia)
+6) Towards Designing a ChatGPT Conversational Companion for Elderly People by Abeer M. Alessa and HEND S. AL-KHALIFA (Saudi Arabia)
