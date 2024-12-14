@@ -1,0 +1,59 @@
+[
+  
+    {
+
+      "title"    : "Pullquotes",
+      "url"      : "/pullquotes/",
+      "category" : "HTML, Code",
+      "date"     : "December 11, 2019"
+    } ,
+  
+    {
+
+      "title"    : "Code snippets in a blog post",
+      "url"      : "/code-snippets/",
+      "category" : "HTML, Code",
+      "date"     : "August 12, 2019"
+    } ,
+  
+    {
+
+      "title"    : "Sometimes, your post just stands for itself and doesn’t need a title. And that’s fine, too!",
+      "url"      : "/no-title-posts/",
+      "category" : "Miscellaneous",
+      "date"     : "August  8, 2019"
+    } ,
+  
+    {
+
+      "title"    : "Some articles are just so short that we&#39;ve to make the footer stick",
+      "url"      : "/super-short-article/",
+      "category" : "Miscellaneous",
+      "date"     : "July 28, 2019"
+    } ,
+  
+    {
+
+      "title"    : "This post demonstrates post content styles",
+      "url"      : "/this-post-demonstrates-post-content-styles/",
+      "category" : "Miscellaneous",
+      "date"     : "July 27, 2019"
+    } ,
+  
+    {
+
+      "title"    : "Some articles are just so long they deserve a really long title to see if things will break well",
+      "url"      : "/super-long-article/",
+      "category" : "Miscellaneous",
+      "date"     : "July 27, 2019"
+    } ,
+  
+    {
+
+      "title"    : "Introducing Reverie - A ridiculously elegant Jekyll theme",
+      "url"      : "/introducing-reverie-jekyll-theme/",
+      "category" : "Miscellaneous, Jekyll",
+      "date"     : "February 13, 2019"
+    } 
+  
+]

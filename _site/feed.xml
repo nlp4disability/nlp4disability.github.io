@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-12-15T00:41:09+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">NLP4Disability</title><subtitle>The Second Workshop on Natural Language Processing (NLP) for Disability @ PETRA 2025</subtitle><entry><title type="html">Pullquotes</title><link href="http://localhost:4000/pullquotes/" rel="alternate" type="text/html" title="Pullquotes" /><published>2019-12-11T00:00:00+03:00</published><updated>2019-12-11T00:00:00+03:00</updated><id>http://localhost:4000/pullquotes</id><content type="html" xml:base="http://localhost:4000/pullquotes/"><![CDATA[<p>In graphic design, a pull quote (also known as a lift-out pull quote) is a key phrase, quotation, or excerpt that has been pulled from an article and used as a page layout graphic element, serving to entice readers into the article or to highlight a key topic. It is typically placed in a larger or distinctive typeface and on the same page.<span data-pullquote="It is typically placed in a larger or distinctive typeface and on the same page."></span> Pull quotes are often used in magazine and newspaper articles, annual reports, and brochures, as well as on the web. They can add visual interest to text-heavy pages with few images or illustrations.</p>
+
+<p>Placement of a pull quote on a page may be defined in a publication’s or website’s style guide. Such a typographic device may or may not be aligned with a column on the page. Some designers, for example, choose not to align the quote. In that case, the quotation cuts into two or more columns, as in the example shown. Because the pull quote invites the reader to read about the highlighted material, the pull quote should appear before the text it cites and, generally, fairly close to it.</p>
+
+<p>Pull quotes need not be a verbatim copy of the text being quoted; depending on a publication’s house style, pull quotes may be abbreviated for space or paraphrased for clarity, with or without indication.</p>
+
+<p>A disadvantage of pull quotes as a design element is that they can disrupt the reading process of readers invested in reading the text sequentially by drawing attention to ghost fragments out of context. At the other extreme, when pull quotes are used to break up what would otherwise be a formless wall of text, pull quote can serve as visual landmarks to help the reader maintain a sense of sequence and place.</p>]]></content><author><name></name></author><category term="HTML" /><category term="Code" /><summary type="html"><![CDATA[In graphic design, a pull quote (also known as a lift-out pull quote) is a key phrase, quotation, or excerpt that has been pulled from an article and used as a page layout graphic element, serving to entice readers into the article or to highlight a key topic.]]></summary></entry><entry><title type="html">Code snippets in a blog post</title><link href="http://localhost:4000/code-snippets/" rel="alternate" type="text/html" title="Code snippets in a blog post" /><published>2019-08-12T00:00:00+03:00</published><updated>2019-08-12T00:00:00+03:00</updated><id>http://localhost:4000/code-snippets</id><content type="html" xml:base="http://localhost:4000/code-snippets/"><![CDATA[<p>This post demonstrate the use of code snippets in the theme. The code snippets are powered by <a href="http://pygments.org/">Pygments</a> and the code theme that is been used in Reverie is called <a href="https://draculatheme.com/">Draula</a>.</p>
+
+<p>This is a raw snippet:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>hello world
+123
+This is a text snippet
+</code></pre></div></div>
+
+<p>This is a PHP snippet:</p>
+
+<div class="language-php highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="cp">&lt;?php</span>
+    <span class="k">echo</span> <span class="s1">'Hello, World!'</span><span class="p">;</span>
+<span class="cp">?&gt;</span>
+</code></pre></div></div>
+
+<p>This is a JavaScript snippet:</p>
+
+<div class="language-js highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">const</span> <span class="nx">add</span> <span class="o">=</span> <span class="p">(</span><span class="nx">a</span><span class="p">,</span> <span class="nx">b</span><span class="p">)</span> <span class="o">=&gt;</span> <span class="nx">a</span> <span class="o">+</span> <span class="nx">b</span>
+<span class="kd">const</span> <span class="nx">minus</span> <span class="o">=</span> <span class="p">(</span><span class="nx">a</span><span class="p">,</span> <span class="nx">b</span><span class="p">)</span> <span class="o">=&gt;</span> <span class="nx">a</span> <span class="o">-</span> <span class="nx">b</span>
+
+<span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">add</span><span class="p">(</span><span class="mi">100</span><span class="p">,</span><span class="mi">200</span><span class="p">))</span>  <span class="c1">// 300</span>
+<span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">minus</span><span class="p">(</span><span class="mi">100</span><span class="p">,</span><span class="mi">200</span><span class="p">))</span>  <span class="c1">// -100</span>
+</code></pre></div></div>
+
+<p>This is a Python snippet:</p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">def</span> <span class="nf">say_hello</span><span class="p">():</span>
+    <span class="k">print</span><span class="p">(</span><span class="s">"hello world!"</span><span class="p">)</span>
+
+<span class="n">say_hello</span><span class="p">()</span>   <span class="o">//</span> <span class="s">"hello world!"</span>
+</code></pre></div></div>]]></content><author><name></name></author><category term="HTML" /><category term="Code" /><summary type="html"><![CDATA[This post demonstrate the use of code snippets in the theme. The code snippets are powered by Pygments and the code theme that is been used in Reverie is called Draula.]]></summary></entry><entry><title type="html"></title><link href="http://localhost:4000/no-title-posts/" rel="alternate" type="text/html" title="" /><published>2019-08-08T00:00:00+03:00</published><updated>2019-08-08T00:00:00+03:00</updated><id>http://localhost:4000/no-title-posts</id><content type="html" xml:base="http://localhost:4000/no-title-posts/"><![CDATA[<p>Sometimes, your post just stands for itself and doesn’t need a title. And that’s fine, too!</p>]]></content><author><name></name></author><category term="Miscellaneous" /><summary type="html"><![CDATA[Sometimes, your post just stands for itself and doesn’t need a title. And that’s fine, too!]]></summary></entry><entry><title type="html">Some articles are just so short that we’ve to make the footer stick</title><link href="http://localhost:4000/super-short-article/" rel="alternate" type="text/html" title="Some articles are just so short that we’ve to make the footer stick" /><published>2019-07-28T00:00:00+03:00</published><updated>2019-07-28T00:00:00+03:00</updated><id>http://localhost:4000/super-short-article</id><content type="html" xml:base="http://localhost:4000/super-short-article/"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>]]></content><author><name></name></author><category term="Miscellaneous" /><summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.]]></summary></entry><entry><title type="html">Some articles are just so long they deserve a really long title to see if things will break well</title><link href="http://localhost:4000/super-long-article/" rel="alternate" type="text/html" title="Some articles are just so long they deserve a really long title to see if things will break well" /><published>2019-07-27T00:00:00+03:00</published><updated>2019-07-27T00:00:00+03:00</updated><id>http://localhost:4000/super-long-article</id><content type="html" xml:base="http://localhost:4000/super-long-article/"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.</p>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.</p>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.</p>]]></content><author><name></name></author><category term="Miscellaneous" /><summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.]]></summary></entry><entry><title type="html">This post demonstrates post content styles</title><link href="http://localhost:4000/this-post-demonstrates-post-content-styles/" rel="alternate" type="text/html" title="This post demonstrates post content styles" /><published>2019-07-27T00:00:00+03:00</published><updated>2019-07-27T00:00:00+03:00</updated><id>http://localhost:4000/this-post-demonstrates-post-content-styles</id><content type="html" xml:base="http://localhost:4000/this-post-demonstrates-post-content-styles/"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.</p>
+
+<h2 id="some-great-heading-h2">Some great heading (h2)</h2>
+
+<p>Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu.</p>
+
+<p>Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.</p>
+
+<h2 id="another-great-heading-h2">Another great heading (h2)</h2>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.</p>
+
+<h3 id="some-great-subheading-h3">Some great subheading (h3)</h3>
+
+<p>Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum.</p>
+
+<p>Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.</p>
+
+<h3 id="some-great-subheading-h3-1">Some great subheading (h3)</h3>
+
+<p>Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.</p>
+
+<blockquote>
+  <p>This quote will change your life. It will reveal the secrets of the universe, and all the wonders of humanity. Don’t misuse it.</p>
+</blockquote>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt.</p>
+
+<h3 id="some-great-subheading-h3-2">Some great subheading (h3)</h3>
+
+<p>Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum.</p>
+
+<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">&lt;html&gt;</span>
+  <span class="nt">&lt;head&gt;</span>
+  <span class="nt">&lt;/head&gt;</span>
+  <span class="nt">&lt;body&gt;</span>
+    <span class="nt">&lt;p&gt;</span>Hello, World!<span class="nt">&lt;/p&gt;</span>
+  <span class="nt">&lt;/body&gt;</span>
+<span class="nt">&lt;/html&gt;</span>
+</code></pre></div></div>
+
+<p>In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.</p>
+
+<h4 id="you-might-want-a-sub-subheading-h4">You might want a sub-subheading (h4)</h4>
+
+<p>In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.</p>
+
+<p>In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.</p>
+
+<h4 id="but-its-probably-overkill-h4">But it’s probably overkill (h4)</h4>
+
+<p>In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.</p>
+
+<h3 id="oh-hai-an-unordered-list">Oh hai, an unordered list!!</h3>
+
+<p>In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.</p>
+
+<ul>
+  <li>First item, yo</li>
+  <li>Second item, dawg</li>
+  <li>Third item, what what?!</li>
+  <li>Fourth item, fo sheezy my neezy</li>
+</ul>
+
+<h3 id="oh-hai-an-ordered-list">Oh hai, an ordered list!!</h3>
+
+<p>In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.</p>
+
+<ol>
+  <li>First item, yo</li>
+  <li>Second item, dawg</li>
+  <li>Third item, what what?!</li>
+  <li>Fourth item, fo sheezy my neezy</li>
+</ol>
+
+<h2 id="headings-are-cool-h2">Headings are cool! (h2)</h2>
+
+<p>Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.</p>
+
+<p>Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.</p>
+
+<p>Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.</p>
+
+<h3 id="tables">Tables</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Title 1</th>
+      <th>Title 2</th>
+      <th>Title 3</th>
+      <th>Title 4</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>lorem</td>
+      <td>lorem ipsum</td>
+      <td>lorem ipsum dolor</td>
+      <td>lorem ipsum dolor sit</td>
+    </tr>
+    <tr>
+      <td>lorem ipsum dolor sit</td>
+      <td>lorem ipsum dolor sit</td>
+      <td>lorem ipsum dolor sit</td>
+      <td>lorem ipsum dolor sit</td>
+    </tr>
+    <tr>
+      <td>lorem ipsum dolor sit</td>
+      <td>lorem ipsum dolor sit</td>
+      <td>lorem ipsum dolor sit</td>
+      <td>lorem ipsum dolor sit</td>
+    </tr>
+    <tr>
+      <td>lorem ipsum dolor sit</td>
+      <td>lorem ipsum dolor sit</td>
+      <td>lorem ipsum dolor sit</td>
+      <td>lorem ipsum dolor sit</td>
+    </tr>
+  </tbody>
+</table>]]></content><author><name></name></author><category term="Miscellaneous" /><summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.]]></summary></entry><entry><title type="html">Introducing Reverie - A ridiculously elegant Jekyll theme</title><link href="http://localhost:4000/introducing-reverie-jekyll-theme/" rel="alternate" type="text/html" title="Introducing Reverie - A ridiculously elegant Jekyll theme" /><published>2019-02-13T00:00:00+03:00</published><updated>2019-02-13T00:00:00+03:00</updated><id>http://localhost:4000/introducing-reverie-jekyll-theme</id><content type="html" xml:base="http://localhost:4000/introducing-reverie-jekyll-theme/"><![CDATA[<p><a href="https://github.com/amitmerchant1990/reverie">Reverie</a> is a <a href="https://jekyllrb.com/">Jekyll</a>-powered theme which is simple and opinionated. It’s actually a fork of <a href="https://github.com/barryclark/jekyll-now">jekyll-now</a> with some additional features and personal touches which I’ve implemented to suit my needs for my blog.</p>
+
+<p>This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.</p>
+
+<p><img src="/images/reverie-demo.png" alt="" /></p>
+
+<h2 id="features-overview">Features overview</h2>
+
+<ul>
+  <li>Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog</li>
+  <li>Fully responsive and mobile optimized base theme</li>
+  <li>Sass/Coffeescript support using Jekyll 2.0</li>
+  <li>Free hosting on your GitHub Pages user site</li>
+  <li>All the SEO goodies comes in-built</li>
+  <li>Markdown blogging</li>
+  <li>Syntax highlighting using Pygments
+    <ul>
+      <li><a href="https://draculatheme.com/">Dracula syntax theme</a> included</li>
+    </ul>
+  </li>
+  <li>Disqus commenting</li>
+  <li>Google Analytics integration</li>
+  <li>Fuzzy search across blog posts</li>
+  <li>Pagination of posts works out-of-the-box.</li>
+  <li>Categorize posts out-of-the box</li>
+  <li>RSS Feed</li>
+  <li>In-built sitemap</li>
+</ul>
+
+<div style="text-align: center;">
+ <script async="" type="text/javascript" src="//cdn.carbonads.com/carbon.js?serve=CE7D6KJY&amp;placement=wwwamitmerchantcom" id="_carbonads_js"></script>
+</div>
+
+<h2 id="using-reverie-on-github-pages">Using Reverie on GitHub Pages</h2>
+
+<h3 id="step-1-fork-reverie-to-your-user-repository">Step 1) Fork Reverie to your User Repository</h3>
+
+<p>Fork <a href="https://github.com/amitmerchant1990/reverie">this repository</a>, then rename the repository to <code class="language-plaintext highlighter-rouge">yourgithubusername.github.io</code>.</p>
+
+<p>Alternatively, you can use <a href="https://github.com/amitmerchant1990/reverie/generate">Use this template</a> button if you want to create a repository with a clean commit history which will use Reverie as a template.</p>
+
+<p>Your Jekyll blog will often be viewable immediately at <a href="https://yourgithubusername.github.io">https://yourgithubusername.github.io</a> (if it’s not, you can often force it to build by completing step 2)</p>
+
+<h3 id="step-2-customize-and-view-your-site">Step 2) Customize and view your site</h3>
+
+<p>Enter your site name, description, avatar and many other options by editing the <code class="language-plaintext highlighter-rouge">_config.yml</code> file. You can easily turn on Google Analytics tracking, Disqus commenting and social icons here.</p>
+
+<p>Making a change to <code class="language-plaintext highlighter-rouge">_config.yml</code> (or any file in your repository) will force GitHub Pages to rebuild your site with jekyll. Your rebuilt site will be viewable a few seconds later at <a href="https://yourgithubusername.github.io">https://yourgithubusername.github.io</a> - if not, give it ten minutes as GitHub suggests and it’ll appear soon.</p>
+
+<h3 id="step-3-publish-your-first-blog-post">Step 3) Publish your first blog post</h3>
+
+<p>Create a new file called <code class="language-plaintext highlighter-rouge">/_posts/2019-2-13-Hello-World.md</code> to publish your first blog post. That’s all you need to do to publish your first blog post! This <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet">Markdown Cheatsheet</a> might come in handy while writing the posts.</p>
+
+<blockquote>
+  <p>You can add additional posts in the browser on GitHub.com too! Just hit the <kbd>Create new file</kbd> button in <code class="language-plaintext highlighter-rouge">/_posts/</code> to create new content. Just make sure to include the <a href="http://jekyllrb.com/docs/frontmatter/">front-matter</a> block at the top of each new blog post and make sure the post’s filename is in this format: year-month-day-title.md</p>
+</blockquote>
+
+<h2 id="using-categories-in-reverie">Using Categories in Reverie</h2>
+
+<p>You can categorize your content based on <code class="language-plaintext highlighter-rouge">categories</code> in Reverie. For this, you just need to add <code class="language-plaintext highlighter-rouge">categories</code> in front matter like below:</p>
+
+<p>For adding single category:</p>
+
+<div class="language-md highlighter-rouge"><div class="highlight"><pre class="highlight"><code>categories: JavaScript
+</code></pre></div></div>
+
+<p>For adding multiple categories:</p>
+
+<div class="language-md highlighter-rouge"><div class="highlight"><pre class="highlight"><code>categories: [PHP, Laravel]
+</code></pre></div></div>
+
+<p>The contegorized content can be shown over this URL: <a href="https://yourgithubusername.github.io/categories/">https://yourgithubusername.github.io/categories/</a></p>
+
+<h2 id="rss">RSS</h2>
+
+<p>The generated <a href="https://en.wikipedia.org/wiki/RSS">RSS feed</a> of your blog can be found at <a href="https://yourgithubusername.github.io/feed">https://yourgithubusername.github.io/feed</a>. You can see the example RSS feed over <a href="https://www.amitmerchant.com/reverie/feed">here</a>.</p>
+
+<h2 id="sitemap">Sitemap</h2>
+
+<p>The generated sitemap of your blog can be found at <a href="https://yourgithubusername.github.io/sitemap">https://yourgithubusername.github.io/sitemap</a>. You can see the example sitemap feed over <a href="https://www.amitmerchant.com/reverie/sitemap">here</a>.</p>
+
+<h2 id="license">License</h2>
+
+<p>MIT</p>]]></content><author><name></name></author><category term="Miscellaneous" /><category term="Jekyll" /><summary type="html"><![CDATA[Reverie is a Jekyll-powered theme which is simple and opinionated. It’s actually a fork of jekyll-now with some additional features and personal touches which I’ve implemented to suit my needs for my blog.]]></summary></entry></feed>
