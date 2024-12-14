@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
   <br>
   <img src="/images/reverie-text.png" alt="Reverie" width="200"/>
   <br>  
@@ -131,4 +131,4 @@ reverie - _a state of being pleasantly lost in one's thoughts; a daydream._<br><
 
 ## License
 
-MIT
+MIT -->

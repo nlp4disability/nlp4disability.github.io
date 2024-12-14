@@ -1,12 +1,17 @@
 ---
 layout: page
 permalink: /Submission/
-title: Submission and Accepted Papers
+title: Submission
 ---
-## Submission Deadline 1st April 
-Please find the link for the submission [here]( https://easychair.org/conferences/?conf=petra2023)
+## Submission Deadline 10th February 
+Please find the link for the submission <a href="https://easychair.org/my/conference?conf=petra2025" target="_blank">here</a>.
 
-## List of Accepted papers
+<b>Submission Instructions:</b>
+- <b>Page limit (including references):</b> 3-10 Pages
+- The authors must follow the guidelines of ACM SigConf template available <a href="https://www.acm.org/publications/proceedings-template" target="_blank">here</a>.
+
+
+<!-- ## List of Accepted papers
 1) JUMLA-QSL-22: Creation and Annotation of a Qatari Sign Language Corpus for Sign Language Processing by Achraf Othman, Oussama El Ghoul, Maryam Aziz, Khansa Chemnad,  Sammy Sedrati, and Amira Dhouib (Qatar)
 
 2) Easy-to-Read Language Resources and Tools for three European Languages by MARGOT MADINA, ITZIAR GONZALEZ-DIOS,and MELANIE SIEGEL (Germany)
@@ -17,4 +22,4 @@ Please find the link for the submission [here]( https://easychair.org/conference
 
 5) Towards a Measure for Empathy: a Cross-Language Investigation of #disability on Social Media by ZAINAB ALMERAJ and FATEMAH HUSAIN (Kuwait)
 
-6) Towards Designing a ChatGPT Conversational Companion for Elderly People by Abeer M. Alessa and HEND S. AL-KHALIFA (Saudi Arabia)
+6) Towards Designing a ChatGPT Conversational Companion for Elderly People by Abeer M. Alessa and HEND S. AL-KHALIFA (Saudi Arabia) -->

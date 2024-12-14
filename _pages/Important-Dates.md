@@ -4,7 +4,7 @@ permalink: /Important-Dates/
 title: Important Dates
 ---
 
-- Workshop paper submission deadline:  March 10, 2023 
-- Review Period: March 11 - April 07, 2023 
-- Notification date: April 22, 2023
-- Camera-Ready: April 30, 2023
+- Workshop paper submission deadline: February 10, 2025 
+- Review Period: February 11 - March 11, 2025 
+- Notification date: March 15, 2025
+- Camera-Ready: April 30, 2025
