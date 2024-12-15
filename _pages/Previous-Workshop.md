@@ -1,7 +1,7 @@
 ---
 layout: page
 title: NLP4Disability @ PETRA 2023
-permalink: /Previous-Proceedings/
+permalink: /Previous-Workshop/
 ---
 
 # About the Workshop
