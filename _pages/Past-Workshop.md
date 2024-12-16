@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Previous Workshop
-permalink: /Previous-Workshop/
+title: Past Workshop
+permalink: /Past-Workshop/
 ---
 
 # About the Workshop
